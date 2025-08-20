@@ -169,3 +169,6 @@ _version.py
 hub/
 .vscode/settings.json
 *.swp
+
+demo_output/
+
